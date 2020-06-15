@@ -1,7 +1,8 @@
 # Spam-Email-Classification
 
-**Highlights**:
 
+
+**Highlights**:
 ### Analysis of ML Algorithms for Spam Email Classification in Python :
 
 - Anaylzed KNN, Naive Bayes, SVMs and Neural Networks and finally implemented **Naive Bayes** and **KNN** for the classification of various data sets into **spam and ham** using *Keras*, Pandas, Numpy and *Scikit-learn*

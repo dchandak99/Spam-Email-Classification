@@ -6,7 +6,7 @@
 - Compared accuracies for various data sets and **categorised the best method** for each data set
 
 **Details:**  
-My interest in Applied Machine Learning was first kindled during my research stint at the Indian Institute of Technology, Kanpur under Professor Vipul Arora, of the Electrical Engineering Department, just after my first year of Undergraduate Study. My presentation on my findings received special mention from the Professor, and I recieved a [Letter of Recommendation](LOR_iitk.pdf) for my work.
+My interest in Applied Machine Learning was first kindled during my research stint at the [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/) under Professor [Vipul Arora](http://home.iitk.ac.in/~vipular/), of the [Electrical Engineering](https://www.iitk.ac.in/ee/) Department, just after my first year of Undergraduate Study. My presentation on my findings received special mention from the Professor, and I recieved a [Letter of Recommendation](LOR_iitk.pdf) for my work.
 
 To **run the code**:-
 
